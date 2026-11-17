@@ -1,0 +1,70 @@
+## Interface: 16001
+## AllowLoadGameType: camelot
+## Title: ApexProfessions
+## Notes: Personal profession leveling guide: cheapest / fastest, farming, vendor and Auctionator budgets.
+## Author: ApexInterfectum; Craft Ladder foundation by Alex P
+## X-License: GPL-3.0
+## Version: 0.1.0
+## IconTexture: Interface\Icons\Trade_BlackSmithing
+## SavedVariables: ApexProfessionsDB
+## OptionalDeps: Auctionator, AuctionDB, ApexNavigator, TomTom
+## Category: Professions
+## X-Game-Version: WoW Forever 1.60 beta
+## AddonCompartmentFunc: ApexProfessions_OnCompartmentClick
+## AddonCompartmentFuncOnEnter: ApexProfessions_OnCompartmentEnter
+## AddonCompartmentFuncOnLeave: ApexProfessions_OnCompartmentLeave
+
+Locale\enUS.lua
+Locale\deDE.lua
+Locale\esES.lua
+Locale\frFR.lua
+Locale\itIT.lua
+Locale\koKR.lua
+Locale\ptBR.lua
+Locale\ruRU.lua
+Locale\ukUA.lua
+Locale\zhCN.lua
+Locale.lua
+Core.lua
+Data\Cooking.lua
+Data\FirstAid.lua
+Data\Fishing.lua
+Data\Mining.lua
+Data\Skinning.lua
+Data\Herbalism.lua
+Data\Lockpicking.lua
+Data\Blacksmithing.lua
+Data\Engineering.lua
+Data\Tailoring.lua
+Data\Enchanting.lua
+Data\Alchemy.lua
+Data\Leatherworking.lua
+Data\Poisons.lua
+Data\Camp.lua
+Data\Disenchant.lua
+Data\Names_ruRU.lua
+Professions.lua
+Ladder.lua
+Fishing.lua
+Mining.lua
+Prices.lua
+Disenchant.lua
+Favor.lua
+Camp.lua
+Spec.lua
+Describe.lua
+Player.lua
+UI\Widgets.lua
+UI\Window.lua
+UI\Cards.lua
+UI\Menu.lua
+UI\Chars.lua
+UI\CampPanel.lua
+UI\SpecPanel.lua
+UI\Settings.lua
+UI\AuctionTab.lua
+UI\Minimap.lua
+
+ApexFarmData.lua
+ApexPlanner.lua
+ApexGuide.lua

@@ -1,0 +1,14 @@
+## Interface: 16001
+## Title: Apex Navigator
+## Notes: Map destinations with estimated walking, boat, tram and optional learned flight routes.
+## Author: ApexInterfectum
+## Version: 0.1.3
+## SavedVariablesPerCharacter: ApexNavigatorDB
+## OptionalDeps: TomTom, OpenMap
+## AllowLoadGameType: camelot
+TravelData.lua
+Network.lua
+Planner.lua
+Core.lua
+Coordinates.lua
+UI.lua

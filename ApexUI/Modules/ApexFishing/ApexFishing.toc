@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: Apex Fishing
+## Notes: Fishing and Cooking 1-300. Alliance and Horde guided routes.
+## Author: ApexInterfectum
+## Version: 1.1.0
+## SavedVariablesPerCharacter: ApexFishingDB
+## OptionalDeps: TomTom, ApexNavigator, OpenMap
+## AllowLoadGameType: camelot
+Data.lua
+Guide.lua
+Locations.lua
+Spots.lua
+Steps.lua
+Controls.lua
+UI.lua
+Mini.lua
+SpotMap.lua
+Minimap.lua

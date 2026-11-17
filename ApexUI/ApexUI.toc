@@ -1,0 +1,121 @@
+## Interface: 16001
+## AllowLoadGameType: camelot
+## Title: ApexUI
+## Notes: Shared HUD, guides, live DPS and dungeon party reports.
+## Author: ApexInterfectum; profession foundation by Alex P
+## Version: 0.3.0
+## X-License: GPL-3.0
+## Dependencies: ApexNavigator, ApexFishing, ApexGrind, ApexProfessions
+## OptionalDeps: RXPGuides, Questie, Auctionator, AuctionDB, TomTom, OpenMap
+## SavedVariables: ApexUIDB
+## SavedVariablesPerCharacter: ApexUICharacterDB
+## IconTexture: Interface\Icons\INV_Shield_05
+Framework.lua
+Templates.lua
+Defaults.lua
+Migration.lua
+UnitFrames.lua
+Party.lua
+ActionBars.lua
+Auras.lua
+Shell.lua
+Movers.lua
+Core.lua
+Utility.lua
+Shared.lua
+Layouts.lua
+Options.lua
+BarOptions.lua
+Theme.lua
+Suite.lua
+Modules\ApexNavigator\TravelData.lua
+Modules\ApexNavigator\Network.lua
+Modules\ApexNavigator\Planner.lua
+Modules\ApexNavigator\Core.lua
+Modules\ApexNavigator\Coordinates.lua
+Modules\ApexNavigator\UI.lua
+Modules\ApexFishing\Data.lua
+Modules\ApexFishing\Guide.lua
+Modules\ApexFishing\Locations.lua
+Modules\ApexFishing\Spots.lua
+Modules\ApexFishing\Steps.lua
+Modules\ApexFishing\Controls.lua
+Modules\ApexFishing\UI.lua
+Modules\ApexFishing\Mini.lua
+Modules\ApexFishing\SpotMap.lua
+Modules\ApexFishing\Minimap.lua
+Modules\ApexGrind\Stats.lua
+Modules\ApexGrind\Bonuses.lua
+Modules\ApexGrind\Spots.lua
+Modules\ApexGrind\Materials.lua
+Modules\ApexGrind\Guide.lua
+Modules\ApexGrind\Core.lua
+Modules\ApexGrind\UI.lua
+Modules\ApexGrind\GuideUI.lua
+Modules\ApexGrind\Map.lua
+Modules\ApexProfessions\Locale\enUS.lua
+Modules\ApexProfessions\Locale\deDE.lua
+Modules\ApexProfessions\Locale\esES.lua
+Modules\ApexProfessions\Locale\frFR.lua
+Modules\ApexProfessions\Locale\itIT.lua
+Modules\ApexProfessions\Locale\koKR.lua
+Modules\ApexProfessions\Locale\ptBR.lua
+Modules\ApexProfessions\Locale\ruRU.lua
+Modules\ApexProfessions\Locale\ukUA.lua
+Modules\ApexProfessions\Locale\zhCN.lua
+Modules\ApexProfessions\Locale.lua
+Modules\ApexProfessions\Core.lua
+Modules\ApexProfessions\Data\Cooking.lua
+Modules\ApexProfessions\Data\FirstAid.lua
+Modules\ApexProfessions\Data\Fishing.lua
+Modules\ApexProfessions\Data\Mining.lua
+Modules\ApexProfessions\Data\Skinning.lua
+Modules\ApexProfessions\Data\Herbalism.lua
+Modules\ApexProfessions\Data\Lockpicking.lua
+Modules\ApexProfessions\Data\Blacksmithing.lua
+Modules\ApexProfessions\Data\Engineering.lua
+Modules\ApexProfessions\Data\Tailoring.lua
+Modules\ApexProfessions\Data\Enchanting.lua
+Modules\ApexProfessions\Data\Alchemy.lua
+Modules\ApexProfessions\Data\Leatherworking.lua
+Modules\ApexProfessions\Data\Poisons.lua
+Modules\ApexProfessions\Data\Camp.lua
+Modules\ApexProfessions\Data\Disenchant.lua
+Modules\ApexProfessions\Data\Names_ruRU.lua
+Modules\ApexProfessions\Professions.lua
+Modules\ApexProfessions\Ladder.lua
+Modules\ApexProfessions\Fishing.lua
+Modules\ApexProfessions\Mining.lua
+Modules\ApexProfessions\Prices.lua
+Modules\ApexProfessions\Disenchant.lua
+Modules\ApexProfessions\Favor.lua
+Modules\ApexProfessions\Camp.lua
+Modules\ApexProfessions\Spec.lua
+Modules\ApexProfessions\Describe.lua
+Modules\ApexProfessions\Player.lua
+Modules\ApexProfessions\UI\Widgets.lua
+Modules\ApexProfessions\UI\Window.lua
+Modules\ApexProfessions\UI\Cards.lua
+Modules\ApexProfessions\UI\Menu.lua
+Modules\ApexProfessions\UI\Chars.lua
+Modules\ApexProfessions\UI\CampPanel.lua
+Modules\ApexProfessions\UI\SpecPanel.lua
+Modules\ApexProfessions\UI\Settings.lua
+Modules\ApexProfessions\UI\AuctionTab.lua
+Modules\ApexProfessions\UI\Minimap.lua
+Modules\ApexProfessions\ApexFarmData.lua
+Modules\ApexProfessions\ApexPlanner.lua
+Modules\ApexProfessions\ApexGuide.lua
+Combat.lua
+CombatUI.lua
+Progress.lua
+Features.lua
+Toolbar.lua
+Frames\Geometry.lua
+Frames\Assets.lua
+Frames\Core.lua
+Frames\Auras.lua
+Frames\Compatibility.lua
+PvP.lua
+Chat.lua
+Skins.lua

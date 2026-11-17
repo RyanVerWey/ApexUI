@@ -1,0 +1,18 @@
+## Interface: 16001
+## AllowLoadGameType: camelot
+## Title: ApexGrind
+## Notes: Readable XP per hour, recent pace, session gains and time to level.
+## Author: ApexInterfectum
+## Version: 0.3.2
+## OptionalDeps: ApexNavigator, TomTom
+## SavedVariablesPerCharacter: ApexGrindDB
+## IconTexture: Interface\Icons\INV_Misc_Book_11
+Stats.lua
+Bonuses.lua
+Spots.lua
+Materials.lua
+Guide.lua
+Core.lua
+UI.lua
+GuideUI.lua
+Map.lua
