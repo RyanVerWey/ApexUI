@@ -1,0 +1,8 @@
+## Interface: 16001
+## AllowLoadGameType: camelot
+## Title: ApexUI Data: Fishing
+## Notes: Required saved-data storage for the ApexUI suite. No standalone feature code.
+## Author: ApexInterfectum
+## Version: 0.3.0
+## SavedVariablesPerCharacter: ApexFishingDB
+Bridge.lua

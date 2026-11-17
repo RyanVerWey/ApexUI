@@ -1,0 +1,1126 @@
+[
+  {
+    "path": "ApexFishing/ApexFishing.toc",
+    "sha256": "cf7740b4dacbc0de457ab221827fc6d4cc24821cc9c3c2d29b317c541457d263"
+  },
+  {
+    "path": "ApexFishing/Bridge.lua",
+    "sha256": "6601cd8a7ab94b4339de9525f1732bd5f7da223b2fa3c340b88075f223c622c0"
+  },
+  {
+    "path": "ApexGrind/ApexGrind.toc",
+    "sha256": "122e62cc27b6ae714c61fc7483e3c53b55ff9d3881420be7555eeb64b0fb813f"
+  },
+  {
+    "path": "ApexGrind/Bridge.lua",
+    "sha256": "6601cd8a7ab94b4339de9525f1732bd5f7da223b2fa3c340b88075f223c622c0"
+  },
+  {
+    "path": "ApexNavigator/ApexNavigator.toc",
+    "sha256": "ade7d0871753e4129654964885ebf45c99446e1b5ea0b40cd6b4b0f48a3aa237"
+  },
+  {
+    "path": "ApexNavigator/Bridge.lua",
+    "sha256": "6601cd8a7ab94b4339de9525f1732bd5f7da223b2fa3c340b88075f223c622c0"
+  },
+  {
+    "path": "ApexProfessions/ApexProfessions.toc",
+    "sha256": "99642206211f48c860c07ee4304427b1090ac3d8959040ec2c2a6c3305761507"
+  },
+  {
+    "path": "ApexProfessions/Bridge.lua",
+    "sha256": "6601cd8a7ab94b4339de9525f1732bd5f7da223b2fa3c340b88075f223c622c0"
+  },
+  {
+    "path": "ApexUI/ActionBars.lua",
+    "sha256": "2bfddcb97846b8121dfa9d0b353418ce1fabf13d85d5ade32306ffa71136af95"
+  },
+  {
+    "path": "ApexUI/ApexUI.toc",
+    "sha256": "0e97fbc9e9733932ed5636d3c1563091e326af635aa5408ff6bda2cfdf532b86"
+  },
+  {
+    "path": "ApexUI/Auras.lua",
+    "sha256": "82dbff75a53186205da0672466b197712a4c4a1eab819175e92944b0ea05d523"
+  },
+  {
+    "path": "ApexUI/BarOptions.lua",
+    "sha256": "1aa1c21efe0a25577402d7d834e3882cf8bc9ec843e694d72123d1240dcc5bb0"
+  },
+  {
+    "path": "ApexUI/CHANGELOG.md",
+    "sha256": "83335681267068dc935ee97afa5d7fcf89bcac1c8569253909026d6f9d5c49dd"
+  },
+  {
+    "path": "ApexUI/Chat.lua",
+    "sha256": "d66fce7c270544e167bac7176801f79a248f335d12fb088fedb5307f4adb473f"
+  },
+  {
+    "path": "ApexUI/Combat.lua",
+    "sha256": "6edacd874762390dead738230598c181175de169f77489797f976d25ca26860d"
+  },
+  {
+    "path": "ApexUI/CombatUI.lua",
+    "sha256": "1656e9dd3f8b8055d45beee0ebbe753fa33d1804e8b4ecaea02a12a8e900cc1c"
+  },
+  {
+    "path": "ApexUI/Core.lua",
+    "sha256": "940df69cdcfd86f446fee5d33ba116f07ff85fadfb8dc6d6b483180538abe5fd"
+  },
+  {
+    "path": "ApexUI/Defaults.lua",
+    "sha256": "efa7d589f1173c6432d575ba2cc3e3d72cc853ab999927cb8f0f44646ef3e9eb"
+  },
+  {
+    "path": "ApexUI/Features.lua",
+    "sha256": "1197bab36f7530149044e2de76959c3a5e3d40d5278ead4483bd8e7e6d447f24"
+  },
+  {
+    "path": "ApexUI/Frames/Assets.lua",
+    "sha256": "fe758abb4be52695c2054e14d056cb550ba3f677b583fdc9ae4d458161d2810e"
+  },
+  {
+    "path": "ApexUI/Frames/Auras.lua",
+    "sha256": "662875c36798509bab109a4eaa9e0123e6b5ca01566b10ba6577e3c5ded0b01d"
+  },
+  {
+    "path": "ApexUI/Frames/Compatibility.lua",
+    "sha256": "1dc965619743ba564d7ac7c1a26d803d365985d850dbcfdf848fef9f3e5723d2"
+  },
+  {
+    "path": "ApexUI/Frames/Core.lua",
+    "sha256": "161ba0b72533c759ab59df360eb0ec7cefe6e7b7897e62863d9ef40cb92211f1"
+  },
+  {
+    "path": "ApexUI/Frames/Geometry.lua",
+    "sha256": "07ba9720d2570920d1aff7004008d7cdfa8b2208687bc6d369b651cb5047e3f1"
+  },
+  {
+    "path": "ApexUI/Frames/Media/iron.png",
+    "sha256": "65f7f7cd1c3f77a9e7276ba35aa7f11f2b0f5bb14cdbbd00a36d2e48d5224b3f"
+  },
+  {
+    "path": "ApexUI/Frames/Media/iron.tga",
+    "sha256": "bf036824aac016cb64cdd0de767c06ab43626b890552a1e56ef854273b308ae8"
+  },
+  {
+    "path": "ApexUI/Frames/Media/split.png",
+    "sha256": "47c042ad8877e442ad956d748e3be03844c3b68079e0f07afbdf2c411cb689d9"
+  },
+  {
+    "path": "ApexUI/Frames/Media/split.tga",
+    "sha256": "a4bb1b4aff42e13935f331e49dc4474d4c5f3c479fb6b297b5f746465cb3246c"
+  },
+  {
+    "path": "ApexUI/Frames/Media/wing-fill.tga",
+    "sha256": "367b8438ce696da2b4f9238c420f544820650f7817ad471f60306d16825df929"
+  },
+  {
+    "path": "ApexUI/Frames/Media/wing-mask.tga",
+    "sha256": "f5a2a3a2b0570bf6cb065bf1222808e4d5a6ed6d594dff2975c8b246b1a10c07"
+  },
+  {
+    "path": "ApexUI/Framework.lua",
+    "sha256": "5380cfd06022c30875e65c6818f535a9c7745da4134d1c76d918c8fb28b2a5b1"
+  },
+  {
+    "path": "ApexUI/LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "ApexUI/Layouts.lua",
+    "sha256": "5a3bd46a62bd2396be032e57bb26c474a0f8761aad559008bea3829ece317dde"
+  },
+  {
+    "path": "ApexUI/Media/LICENSE.txt",
+    "sha256": "84241a29bfd827753e1e13a0a8112e5044666cd99ccea3bf11810ed64b593ae0"
+  },
+  {
+    "path": "ApexUI/Media/Roles/damage.tga",
+    "sha256": "5f0976c62d5900a7c8d6253b135ec47c2941ca59ffaa82f857a989fbc3d13dc9"
+  },
+  {
+    "path": "ApexUI/Media/Roles/healer.tga",
+    "sha256": "3238c0563064cc7bbc3f06c659bbf5c8936ee65ad96cbdf9ed54a2ee6103acb2"
+  },
+  {
+    "path": "ApexUI/Media/Roles/tank.tga",
+    "sha256": "2ee34b187032c57c7d762dff7a282bc8a9063edcdb4e2e16e9380ad3110f08fa"
+  },
+  {
+    "path": "ApexUI/Media/circle_mask.tga",
+    "sha256": "a9424d6131dbd3b46421303f49d0db0314fbedee6fd76145e2e677cd9361949e"
+  },
+  {
+    "path": "ApexUI/Media/pixels_circle_border.tga",
+    "sha256": "3714f822ce46c3801b57b576e7c3f24eb31d467ca63567e212e6487e0961bf59"
+  },
+  {
+    "path": "ApexUI/Media/pixels_inner_shadow.tga",
+    "sha256": "52002051f2e8e270441e4863feffd6d2b231132adddb974ccb5e6612e3c8875a"
+  },
+  {
+    "path": "ApexUI/Migration.lua",
+    "sha256": "a4a6a542df4301a27ad3de1cf5f0014e28bfc29701aaa330ff45a15c86c5c29a"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/ApexFishing.toc",
+    "sha256": "01cedd33919eb82387231fbbe6388819f3a04f5e63fce91c525b85495a4adad7"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Controls.lua",
+    "sha256": "7de6bf6b632a6044dc78f208f94795ea755ef434627e081b4fa99f2a9a508937"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Data.lua",
+    "sha256": "37f0d48910af6fc4aeb997aa7aa651fc1caa582aa5d423a82d7ac0ee03e0a230"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Guide.lua",
+    "sha256": "5b3fedbf4e41083c7c336651fd934f201a5685a8204e3f7f5b7d8d7fc91c0de7"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Locations.lua",
+    "sha256": "38b641b512242a0073eb7053c5ef225d82495fc5369f9c1d6463b258564f2671"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Mini.lua",
+    "sha256": "af2de718376899d2d70d4b62e785190f4780aabf09a4b1ff472d9b9815b98637"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Minimap.lua",
+    "sha256": "de989574d08fd0a2f32f0311e919eba2db0d8986b6e177560f860a197521e550"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Ring.tga",
+    "sha256": "d295b0735e54d0b49abc367414f1b17446f478ebeb5683b193a417a1155696d6"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/SpotMap.lua",
+    "sha256": "ae0a54face1a2cf9e0c3f005cb9dec259ed0afc22c83f11dcf676ff8a3cfcacc"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Spots.lua",
+    "sha256": "de28691d2a86b666607d939b2449d9eab11c01c206667935f89419b19248a65b"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/Steps.lua",
+    "sha256": "230f87af6ddf962aed25e8b758abf0722104d0b9493c3bab554011cbc76b257b"
+  },
+  {
+    "path": "ApexUI/Modules/ApexFishing/UI.lua",
+    "sha256": "8edec62b14546f3fe6e9b4b618f585ecf4248106dd352b77b23e620d8dd28554"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/ApexGrind.toc",
+    "sha256": "2f93e5ebab9f2acc2b5d279e623206b6fc96148e1ca64a89374ae9b624f88bec"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/Bonuses.lua",
+    "sha256": "a426e21d97e06058a41d62825193443da9c4df2892a1f2be8d4cc328b643be5c"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/Core.lua",
+    "sha256": "e3cfb51067cfce803e52699475bb35ebf71a815d4640e831cdeaecee840d3200"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/GrindArea.tga",
+    "sha256": "dcf7b681e63006830a2446a3fcb88c41e30c41523d6bac899becc02910b85250"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/Guide.lua",
+    "sha256": "f74d3ab20a68034ad4722d2601b0509be52b26791f7fbc9ff83447110e03e986"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/GuideUI.lua",
+    "sha256": "2c5358ce72ecab1de24e5630b9ce58107122e98cec27a55a14dc241c28b56e53"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/Map.lua",
+    "sha256": "ecf78b29672427e7fb232848a8de35893114b8987430b333f156fdbe36f1947c"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/Materials.lua",
+    "sha256": "0d6245ea661c832ba44f0f0d1d3186705519aaa48c5b3e479063bb2f0b94c519"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/SOURCES.md",
+    "sha256": "f6faaac78feae3e0df84c37a77f5cc479f65c670184b4a930ed89f2cbde105a4"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/Spots.lua",
+    "sha256": "6ffac684f446a18e8f4aba632f9658aa857226707d0a99453a0cc6e30d960a94"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/Stats.lua",
+    "sha256": "3951143c70ceb504823a8534c871bdffac5b6ef1766915bec7194486b9ed967f"
+  },
+  {
+    "path": "ApexUI/Modules/ApexGrind/UI.lua",
+    "sha256": "7a1e552b20d8102f079d6c116454f24cc8cb6e21659d8ded8bbac9cd90059e2a"
+  },
+  {
+    "path": "ApexUI/Modules/ApexNavigator/ApexNavigator.toc",
+    "sha256": "33ba8f6e24dde46c9a8bd67dc34f1d47c13181beff7269a329bf75719f8f1e25"
+  },
+  {
+    "path": "ApexUI/Modules/ApexNavigator/Coordinates.lua",
+    "sha256": "8c256de286f2ef1758bd0ac0db4a5d35de1896c8223c00a7d88fa16fd2af1b29"
+  },
+  {
+    "path": "ApexUI/Modules/ApexNavigator/Core.lua",
+    "sha256": "f83c5d6e91c49b7d033d9412ad281d5d341eb6b4ef885963ff30d4cdaea7ff48"
+  },
+  {
+    "path": "ApexUI/Modules/ApexNavigator/LICENSE-OpenMap.txt",
+    "sha256": "0ae5e92a110193e3958214057a16bc2c18eb0dd4595a378091e1218adfc2ddf5"
+  },
+  {
+    "path": "ApexUI/Modules/ApexNavigator/Network.lua",
+    "sha256": "1ad8923d965f173ca324a6f948282b949edd00bff2972c8c28d08f5a4d7af3f1"
+  },
+  {
+    "path": "ApexUI/Modules/ApexNavigator/Planner.lua",
+    "sha256": "3c6a12f2c9a88ccdcb574bd1992519ac3ad52973bf64dbe6225d6b676641a8a4"
+  },
+  {
+    "path": "ApexUI/Modules/ApexNavigator/TravelData.lua",
+    "sha256": "c85b2c067c27d2c9a4b462f426ede3a2d6a5b0519e16e36a6853e58228e3caad"
+  },
+  {
+    "path": "ApexUI/Modules/ApexNavigator/UI.lua",
+    "sha256": "bf96c69b089125b9f284defd01dae34a1122f94a0c3ec4765d269a96bbaa31ef"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/ApexFarmData.lua",
+    "sha256": "90116dfa551ed4e1a1e4574330715d41e966c06052026025142523d8d7d2b1b9"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/ApexGuide.lua",
+    "sha256": "4afa97605844f56811520f9b6b782be7dbcc7c43a823ba5f38fc313cc52e34e5"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/ApexPlanner.lua",
+    "sha256": "22974895065ca8c1dcc6fda19911fa81cd005a627a3ba61860de232d55e75f11"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/ApexProfessions.toc",
+    "sha256": "66f070aae89c005e841e537407ce5285cd98dbfdf9a83256facc5c49b02f00f7"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/CREDITS.txt",
+    "sha256": "436a2ea7a4ef410012fae360a7414cdcbea07eecc358b35d4716d3695a72104e"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Camp.lua",
+    "sha256": "1af63fd48a18e65b377d207a7b381af2be230a6a7574f3a1f580e4f96d142828"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Core.lua",
+    "sha256": "a9ee8aa0e8818145eae1ffd0e23bdc825fe84fdf16fb14eb905634f5dfeececf"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Alchemy.lua",
+    "sha256": "b3dbc517bf82f4f6cdb79590208c2a87206e7ceba521823b4a58863c18667799"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Blacksmithing.lua",
+    "sha256": "0463b1501185b02f847efbbdf04da439cb2604fbbfd15417e78a2c271938972b"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Camp.lua",
+    "sha256": "eadac8513d9a25330e744b28c871b4184f5db6ccbe83fa3765f42ceb3de336fa"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Cooking.lua",
+    "sha256": "0f97593e4690148f68d5d62c2c4fde000ce34ca5291666c5109c10023486ac74"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Disenchant.lua",
+    "sha256": "a43ca2d4891315f06b99c3d85ad9f6e374a4c7857a2624a9a597c177a65552f0"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Enchanting.lua",
+    "sha256": "7a0c5b12270734a4535dd76449a498a60583baea0202af2f0dc8d9efbc51592d"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Engineering.lua",
+    "sha256": "cc99305baa2f5c2ff52915dfb304ab4d62253bface660f267b481862310ce34a"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/FirstAid.lua",
+    "sha256": "c09e6dfef9ac4a52f159ed5696a9c74bd88b933b37562cfb2704a212aa48c0ad"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Fishing.lua",
+    "sha256": "2c4aeb29848f4ddaa60ed55eb00264602cc36c07b711b939ad4776e70d3ca155"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Herbalism.lua",
+    "sha256": "2ddf9c936cb80a635009facb7411d9892c0308460203c6925d399bbf0f1fe242"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Leatherworking.lua",
+    "sha256": "628d8f68881b9d2f9198b858bd12f0eb7ebb02d8510775726714337166212df4"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Lockpicking.lua",
+    "sha256": "afc2ebc6eba52f422ee108beca72e6ec32a501ccbd19912bbf23ef5db10881e1"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Mining.lua",
+    "sha256": "6d7e3fbabcffbad49fb7b9e7588e97a3fece8d86aefffbf63e9c474232fd7063"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Names_ruRU.lua",
+    "sha256": "2fad5992d4e6ffefb3cf5a577dd87aa29b374512d9b629d32fb7b5587d4f72dd"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Poisons.lua",
+    "sha256": "33e5f5b4abc7913bba28fe0a9c50186502b4d89169e1f46404133ed4fd79e619"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Skinning.lua",
+    "sha256": "085801388c5ead4fc999310aa4bf9f60b2d3722915c0d8eb8720f6b87e893edd"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Data/Tailoring.lua",
+    "sha256": "5ccd205d69701f54bbc7d8f0ac01230f9a78d8fe7f82f580402f0b96d1da5dc5"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Describe.lua",
+    "sha256": "82731937b294dce585e2338c6acd98bafb35e83889cd23c7a9545c5e3774832c"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Disenchant.lua",
+    "sha256": "b7fe58ed45d780ed8681a0770f2c4620884f10b89fdc45eee7b6b3169bd620f6"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Favor.lua",
+    "sha256": "b25e3f2b107be48ac91fe76bb71d2f93ad79e14b45c7ed078857cfbb30c076dd"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Fishing.lua",
+    "sha256": "e2e3612d5d2cfa29bdafdef4851c2cc90a7d629264e35c56f19bcb2f90127b99"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Ladder.lua",
+    "sha256": "3826ad61076433ad2ed2e73e739444a4c89313dce636cdbfda1b366a09c01b67"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale.lua",
+    "sha256": "22b15af01880c2c39ca8d28b145e04592a45095d783689658f9c740ed51f3a9a"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/deDE.lua",
+    "sha256": "a77c5dbcaaa5329b1727f15d16f94b1e55d1991c4b264f1299e82c154030310a"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/enUS.lua",
+    "sha256": "6d20aba97021266179809ed0d96d320461a8c4f51cd444582656db5134c2e834"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/esES.lua",
+    "sha256": "b52184ee0e1e34722d8c1fec8340285c4c65b209f98dbd17e8e374cfe6365805"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/frFR.lua",
+    "sha256": "8640a3101c6ce475c7ed679e21e16c718cabf762672b07ad0b4361dc781c951d"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/itIT.lua",
+    "sha256": "cdfcfc0e7f21918a35b3d26a3e3dcfbe4204ba13069bbbe7b93d384f25dfb0f3"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/koKR.lua",
+    "sha256": "e5eb87b061981c9ddb9f460e66e660ea5b2bb20bba7ed87aaf771d6d395176f0"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/ptBR.lua",
+    "sha256": "1bc54452de0be87bfefec4dd595ff89c7927aa8de38ddc368c6fb57d0c10c29c"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/ruRU.lua",
+    "sha256": "35950d8e97d6ea3e1f457c16876ba796ac73712cc49f880c65af4461ad449308"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/ukUA.lua",
+    "sha256": "c08bba28d9aec323d77813d2fcc4975ec05c7c4ebab0a7111395dec88714f9c6"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Locale/zhCN.lua",
+    "sha256": "53a59bb65bbf651d5a6bd19db5049594a20c600dbbf93577abc6040ded7676fc"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Media/check.tga",
+    "sha256": "498fd9628cf2397cb45b129ef841efb38298b7c9d5a240579ff1ee580124f4aa"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Media/close.tga",
+    "sha256": "7581e6310f9e7341c134e96e7261978cae27f4ff761c2f81f056daaea9948e2e"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Media/logo.tga",
+    "sha256": "70eaae1340c3cd598850692a1fce7c3abb489959eb554b0a1df0a07140c0cdca"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Media/pin.tga",
+    "sha256": "890ce0011abaab2ea95d39f476ca6d0d2a09c959777f31c88109c70008dc9d63"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Media/pointer.tga",
+    "sha256": "9695d6b79bf4cfeb5c08b33fc3937b309ad71c092f3e71edba11b724d8f802bf"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Media/round.tga",
+    "sha256": "a46419010e4d574fbd10a2df7cc12c7c9951b35881e38ebae347594421c7790c"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Media/shadow.tga",
+    "sha256": "bf63a777479546ab43d8b23960f7aaf5d69db3b2ffbb17a8418e58f49d1a444a"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Mining.lua",
+    "sha256": "2db1aa9942321cb35a414c35de124edd8fb85376a581f17d99460f2282104076"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Player.lua",
+    "sha256": "9ecf1a54a64bddfa01a443c2198d1f08ec331eb504ebf4879caa17e47fbf045e"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Prices.lua",
+    "sha256": "7e01e31f1992018f340fa02117279e8973375b0ba65b6314b7f499a3db5f84bf"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Professions.lua",
+    "sha256": "a381d590f28fbe9477dac93f94f556fb26669f9998ffeec7a477ad36ed4e395a"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/SOURCES.md",
+    "sha256": "d54da729eba4b628b1513d67a449cf8f473b0a3c3b634a8b48f9af585869b457"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/Spec.lua",
+    "sha256": "a4223fd2cbbdbfa06aa58e8b50a8f9fae69e14d6b65d3e8f7ed3796b5b981607"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/AuctionTab.lua",
+    "sha256": "416c9f85990fbbb07091bd3b6ef2ce3e2b51f2807ab8b9e96b76e6daee4c0804"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/CampPanel.lua",
+    "sha256": "49bb127fee3d81cbfbf645d3c7594f3ad125c3b926455409561e32c7b760df33"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/Cards.lua",
+    "sha256": "1ea5cb6f11db79449282a136876665729d6e5799ee4025f285bf288d995548f9"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/Chars.lua",
+    "sha256": "6b0572191f5951a73a1b9886901ea23067f8d3d6f725b6046b5e576f73311e49"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/Menu.lua",
+    "sha256": "a05e12a87044777d6b9f193f8b41d014095bd4fc74ab33be8783afcfaf7e7fcf"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/Minimap.lua",
+    "sha256": "339d91360bc623bd9340d05c6cc64924344f3c73d2574f8a0193dd287be9dab0"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/Settings.lua",
+    "sha256": "a4c457c2e414cef0fb8d095fc9893b44267ca3a95e1fe3536e95aa8dc3635580"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/SpecPanel.lua",
+    "sha256": "f73d329c61b4cf09ca585228403ffb48f77de95eed7daaf0c50ec108e0edfa74"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/Widgets.lua",
+    "sha256": "93129d14fe4ebcb6adcd72dadfd20b4fffd44128a570e89183299926393449fb"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UI/Window.lua",
+    "sha256": "ff2171a566bedb7827e13836a33d69dad677ee4351e6f8130f03b3986f469ce2"
+  },
+  {
+    "path": "ApexUI/Modules/ApexProfessions/UPSTREAM.md",
+    "sha256": "b42b882f5433eddfbb34b33d3ed0fbdbed8a6b343fe84023a71629abffdef038"
+  },
+  {
+    "path": "ApexUI/Movers.lua",
+    "sha256": "83a2067bf58dae0aa3ac79343df2d2d8a302292f258f6e955bef30cb3719e773"
+  },
+  {
+    "path": "ApexUI/Options.lua",
+    "sha256": "a8fdf3b67ba32e18d4806281aa4f2d1d3fd4c5f950bd9c7621b2494677b245c9"
+  },
+  {
+    "path": "ApexUI/Party.lua",
+    "sha256": "afca04657586d2537530595292c0b08ef8d97d53255efb9313f528e0d401dce2"
+  },
+  {
+    "path": "ApexUI/Progress.lua",
+    "sha256": "c2b8e288992ce480369c69856cb28fa2cb44c70ba89228291164a72da52808c8"
+  },
+  {
+    "path": "ApexUI/PvP.lua",
+    "sha256": "e9190ad54439a10761a795253155aac4a3fc30b58fb7f8b9f6bc7100915ca276"
+  },
+  {
+    "path": "ApexUI/README.md",
+    "sha256": "7d306897212f70e962a4a7efb449eb3e97207fe23082cf26ea4cc5eff0b6cfc8"
+  },
+  {
+    "path": "ApexUI/Shared.lua",
+    "sha256": "68d16f4d8e448fe1e5229ced17abc9110483eaa524c972cd1a6795e6d81d4339"
+  },
+  {
+    "path": "ApexUI/Shell.lua",
+    "sha256": "57e388e35137bf20207119231968f86819ec2f0d597c0545cc71ac76aa9db3ee"
+  },
+  {
+    "path": "ApexUI/Skins.lua",
+    "sha256": "22354dc847baa2f5b47f9c999ed3d753e8b9a38c15158fe02209e76b765399ca"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/ApexFishing.toc",
+    "sha256": "01cedd33919eb82387231fbbe6388819f3a04f5e63fce91c525b85495a4adad7"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Controls.lua",
+    "sha256": "a295c43c0d8109c408abe18a0b67edc9756c182fda8bdc4bbb8465b895c71f6d"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Data.lua",
+    "sha256": "660d6f757c0b33ca23a6b237f7f794c1293e4413f26a70419645e11e19190567"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Guide.lua",
+    "sha256": "0966ec67d2a8ca59c6582ccebb08318ae399e4ea4d61c63cb5c47585bbe403ae"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Locations.lua",
+    "sha256": "bd1225eb71bdb27b0376477bb638cfce547ea36e3bad30ed24737d391eded67b"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Mini.lua",
+    "sha256": "81fe9e9c4bc006bd29ef6ddf872e17467625c7a13cda32ac14d2492448014aa3"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Minimap.lua",
+    "sha256": "1dceacabf83a6e3c4cfbb7a1ea1a3573b3343284028bc9a99b55edee5e7eb343"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Ring.tga",
+    "sha256": "d295b0735e54d0b49abc367414f1b17446f478ebeb5683b193a417a1155696d6"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/SpotMap.lua",
+    "sha256": "63d224a27f4960961bc26c629329ebdafdbf3459b99c7a1865da823f7c5c109f"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Spots.lua",
+    "sha256": "6fa20e9a40c9dff3dd6c63e3601ad8814bec58e5219d821fbb40604c835775f1"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/Steps.lua",
+    "sha256": "14d49b8b157224b5a328ba8fdb10400656015bad0ddca0c8b00b1ce7995de876"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/UI.lua",
+    "sha256": "cc38863bbd25f9188b6d388f52b8e3e158c363691505eec4c556ee170265f5a6"
+  },
+  {
+    "path": "ApexUI/Source/ApexFishing/tools/make_ring.py",
+    "sha256": "fc72f0e83672e1c8053150b32630d3999e90a95125a656973e718ed7d2f92d71"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/ApexGrind.toc",
+    "sha256": "2f93e5ebab9f2acc2b5d279e623206b6fc96148e1ca64a89374ae9b624f88bec"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/Bonuses.lua",
+    "sha256": "22158c55328adc721085daaac07a064f0aec3f08e5e105a01d657d204123c12c"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/Core.lua",
+    "sha256": "3ce1181949e35ddd0cbe4431f2ecedb66842fc79343e89d6567a1b1a768d0b0b"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/GrindArea.tga",
+    "sha256": "dcf7b681e63006830a2446a3fcb88c41e30c41523d6bac899becc02910b85250"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/Guide.lua",
+    "sha256": "737a63f65f39ddef915182056953bc70765b9168932704a3e47d875fb9b3abd7"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/GuideUI.lua",
+    "sha256": "852e6596d3914d0988c58af6271cc5888e8a23a0ee7c028514da840be14ab275"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/Map.lua",
+    "sha256": "5b2236ab31376f52e0e4f42a34bc191d1da34aaf8470a7a9354744c02b5696a6"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/Materials.lua",
+    "sha256": "01e5b73286aed9ccff7613f8da1a41c1c9f35d50c601e971616d893e281e601d"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/SOURCES.md",
+    "sha256": "f6faaac78feae3e0df84c37a77f5cc479f65c670184b4a930ed89f2cbde105a4"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/Spots.lua",
+    "sha256": "a766608cd82fe6abc863be7bc3b8ff776438a907ac46454e42ca0f2c1efa0e88"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/Stats.lua",
+    "sha256": "29a0c48af51a69a4e218ea32adbb531e0fd6824ab849ea771adc1fbb5ed2ed77"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/UI.lua",
+    "sha256": "8d385fa09526edca5e2958f48d015ac119c679f20514a4a8a0db5263ed936e6b"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/tools/build_materials.py",
+    "sha256": "49b8f02ca28fc50fd5bdd5aff90b02a673ee566953a5c1fa327d4f82b590ffa6"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/tools/build_spots.py",
+    "sha256": "b864784cda0ee24bb5fbee69f31a03c5b7bec57eb12f780e52cf1d2446b3ef6a"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/tools/make_ring.py",
+    "sha256": "9b243a0ccec9ee397387c5e2a06e3aba65e896f2ef88e135f65ad695e843de8f"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/tools/research_catalog.py",
+    "sha256": "34750cbffe4deb613a9311ea7d78fa9b8fa5483f5221260f577b93c7f4f66453"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/tools/test_addon.py",
+    "sha256": "2a3c0d6c0c6d37691e4a58963f7fcab667fa89d65dd831b9a8e17de040f39ed2"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/tools/test_bonuses.py",
+    "sha256": "2aa0b25d9df7e673001c01e1f5f893bfeb9893a20772b2edac3f4b5e096b69ce"
+  },
+  {
+    "path": "ApexUI/Source/ApexGrind/tools/test_map.py",
+    "sha256": "ded0f1ed9d1752f5f130f0c4b485d3327a8a6981ad6102f6745df1720c5bef78"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/ApexNavigator.toc",
+    "sha256": "33ba8f6e24dde46c9a8bd67dc34f1d47c13181beff7269a329bf75719f8f1e25"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/Coordinates.lua",
+    "sha256": "afc4cb34dc4015901376e774d61a0fe5cd74b4c1e4b7ab151a7e68882bdf7568"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/Core.lua",
+    "sha256": "3601d0996532b365c0b1c6d067591255179437ddf6602a806b344e692ae9768f"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/LICENSE-OpenMap.txt",
+    "sha256": "0ae5e92a110193e3958214057a16bc2c18eb0dd4595a378091e1218adfc2ddf5"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/Network.lua",
+    "sha256": "7d83473898f5ced39e7208dae680811b93a1fb9301462bebe75e4f7407e4cebe"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/Planner.lua",
+    "sha256": "a7aa851866015bfb8e3cc336eb0993ee07cb482c9529e5acf9e7780e9d05390b"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/TravelData.lua",
+    "sha256": "f3fd502824221bee57937e606993852c7a11ed48947052c8be253f625d78bfaf"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/UI.lua",
+    "sha256": "b8945160f518d115ed31a0643330d54ca4bc7bbc24deaa1e94f425a325f4afd2"
+  },
+  {
+    "path": "ApexUI/Source/ApexNavigator/tools/import_travel_data.py",
+    "sha256": "144b512a64d85abecfb12343dd30625bf8bb1f79f0a2fcf094383fcf84c7afd4"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/ApexFarmData.lua",
+    "sha256": "55ca2f1c9af593cfe14f6522e42c5c07ea5d4fa992ee5859fee1820417a3c4c8"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/ApexGuide.lua",
+    "sha256": "a5803e6f1a0d39f4f16175b5e3813d59a0d3b9b723e7e6ec961bd56496aa7a25"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/ApexPlanner.lua",
+    "sha256": "f7bb6ddfab530183ddc242538ce18edd59da900d632d450b24d7d744066258a6"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/ApexProfessions.toc",
+    "sha256": "66f070aae89c005e841e537407ce5285cd98dbfdf9a83256facc5c49b02f00f7"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/CREDITS.txt",
+    "sha256": "436a2ea7a4ef410012fae360a7414cdcbea07eecc358b35d4716d3695a72104e"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Camp.lua",
+    "sha256": "3174c323dc5de48a47a82bf23132e2df8d259b99d08f54f78fa649448882a640"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Core.lua",
+    "sha256": "17acd3b51f99cedd252db9d2b10594284a27fe15a3245d4029f8970fa35ae61c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Alchemy.lua",
+    "sha256": "a718549358112c5f13ed76669c4973c5f67dadd77e486a2ba45b8340af364b06"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Blacksmithing.lua",
+    "sha256": "311bcdadb5f4f6bf6ba5305ea5036a58b8bf36fec32a600f0a7cc7a10bd0c267"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Camp.lua",
+    "sha256": "8adb95311144f6340848fdafe9d17d91f9ae8347e64dfb99431171b6e3657038"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Cooking.lua",
+    "sha256": "bd556021c8f121e0d5777cd52f3afa20acad19a0772a5abd7ec750c6887b8438"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Disenchant.lua",
+    "sha256": "46d7675eecf26ecdccc2184997866297acb1c30ded372b1ccc0fc3c0f6948b79"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Enchanting.lua",
+    "sha256": "4b635e007677ca37b10667a4ba49f25f2421edb91300dd72899e465b7bf1ba25"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Engineering.lua",
+    "sha256": "7023ee003b0a4cd30f217ee1c43cfb79ad2e0a6139bbe622f188fc3af4483333"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/FirstAid.lua",
+    "sha256": "a92e0fdc44e446c977a513a8591972325ecb90c8433414bf2b1f79c7e111f762"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Fishing.lua",
+    "sha256": "e7b46103946d708df778a1815e00b78a773bd69fd7c4733db904c44d1090f58d"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Herbalism.lua",
+    "sha256": "35b114faa3d69ec49e97c996038099c3ed74bf6c7121283212dee24c5618d560"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Leatherworking.lua",
+    "sha256": "74d2c48b2995c193fb3b4fc1541cd55b1ac527289f82fe08babd26729030ac1c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Lockpicking.lua",
+    "sha256": "bbb61810ab2b71962c151132cff02b81770bbf0c93e6638c573c2b895457023c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Mining.lua",
+    "sha256": "e983813e0aa398048d20d2d65d46ebdafcb074cbe72d16fbde086b035a2e0237"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Names_ruRU.lua",
+    "sha256": "56c4a31bcaa35863522a850aacb1fe86160e4db0d54e013b7aabc2ee6ae93c25"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Poisons.lua",
+    "sha256": "eccb79f55f977faa1f4c67e7075e780d963f5b7a47858fc659550dce94fce4d9"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Skinning.lua",
+    "sha256": "5ab270d17a43b4b8e177430575f5fdb4226289f0cc3e5ed0f914dedd607b568c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Data/Tailoring.lua",
+    "sha256": "50144b08b74e6884f22df54be8359112840d4ed191cc9809c8412519c89a6f58"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Describe.lua",
+    "sha256": "ec10ab64d0e0ed9aee87d9ee421fbb5af1b8486cfe5c30eda00a720cec6362d3"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Disenchant.lua",
+    "sha256": "3bc11e1a87a1e54c741be1d273a7adb0b79a04c36b095eb9facc9464fc2645d1"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Favor.lua",
+    "sha256": "1024f8cb79873c9d8057e8217eda8464e241608350b7e134c8b2d50e9e65303c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Fishing.lua",
+    "sha256": "a02d05e5ca776f6abe8d5a30a279cfc097d3e29a5bec59641ba32299aa333d2c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/LICENSE",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Ladder.lua",
+    "sha256": "24b57ea9bc49dd67299a8d382b92bd19d92c1477ad1ed20d814ab3faac422a52"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale.lua",
+    "sha256": "8e52e3588de001a1374b64d831117ce02e43e23f174e12612755672e0b7cd307"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/deDE.lua",
+    "sha256": "4be5d4ec23447cc4b312cceee12f6d5d083b45a6bb2151055cf8780f91c25139"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/enUS.lua",
+    "sha256": "d15c98d5e5e3fdf1e7663f5d679385d1df0d0c1aab7acd62c5383acf6c605be2"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/esES.lua",
+    "sha256": "73a04b4c56ec9cb527fea3d7867d8fee3c13e729678a1137183d228e269a6fcf"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/frFR.lua",
+    "sha256": "2cad503b1bc7193dedff9317230f110abe82745451d22865287e2e5f18586c1e"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/itIT.lua",
+    "sha256": "eecb85a48dd751236f7dd5562b020d4db90b578519444f839b556b4f8022a360"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/koKR.lua",
+    "sha256": "4c2f65fdf536ca407a7147e03411178212c8a90e3c10da5aea4bf4ee1e71e0d8"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/ptBR.lua",
+    "sha256": "c9e062c737d8cfc9260ff75addad5fa942309fac0fd54c3f8522e27295b7eecb"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/ruRU.lua",
+    "sha256": "02dedc460e6b8a5619871c7cdf8aad2fff7fc854f5dcb2c18bd6279f0fff130c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/ukUA.lua",
+    "sha256": "6c369e54b248c07efc5fb173d2f3f289b9571e3b8a3986b374bec3226aa67ab4"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Locale/zhCN.lua",
+    "sha256": "5382ef43e3d8ab7a63a1d1cf526c9be061141fc263f9859e747ace5d60eff7ed"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Media/check.tga",
+    "sha256": "498fd9628cf2397cb45b129ef841efb38298b7c9d5a240579ff1ee580124f4aa"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Media/close.tga",
+    "sha256": "7581e6310f9e7341c134e96e7261978cae27f4ff761c2f81f056daaea9948e2e"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Media/logo.tga",
+    "sha256": "70eaae1340c3cd598850692a1fce7c3abb489959eb554b0a1df0a07140c0cdca"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Media/pin.tga",
+    "sha256": "890ce0011abaab2ea95d39f476ca6d0d2a09c959777f31c88109c70008dc9d63"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Media/pointer.tga",
+    "sha256": "9695d6b79bf4cfeb5c08b33fc3937b309ad71c092f3e71edba11b724d8f802bf"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Media/round.tga",
+    "sha256": "a46419010e4d574fbd10a2df7cc12c7c9951b35881e38ebae347594421c7790c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Media/shadow.tga",
+    "sha256": "bf63a777479546ab43d8b23960f7aaf5d69db3b2ffbb17a8418e58f49d1a444a"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Mining.lua",
+    "sha256": "66eb677fbe22e87e857b5f8c98fb8f837d82747cd56f5960b4ca6c4dd5cd6609"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Player.lua",
+    "sha256": "af527da1a39f276712f4d16cf4b88702e6483feb702d88ee9fe7a89dfbc8aba3"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Prices.lua",
+    "sha256": "8defad2b260c5685c08b564e5237d09e04851e0821224841c0755f802716dc21"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Professions.lua",
+    "sha256": "9ad8241110a1c69e4430696af58f884dc1b42d2093ddaaf84787bcd0177a2cc8"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/SOURCES.md",
+    "sha256": "d54da729eba4b628b1513d67a449cf8f473b0a3c3b634a8b48f9af585869b457"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/Spec.lua",
+    "sha256": "28f8c6de9e273e3e4eb0f4a9342da565f903058b8cad81d934058a8edd4cf350"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/AuctionTab.lua",
+    "sha256": "7b35e3a38dd0dd4b11f3ae90c8ff5000565fcf4da71350dd73a6d4a6cdb1efd6"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/CampPanel.lua",
+    "sha256": "c466e57d29159c2fdc847a4d4248879b91dea5d96beb40373527719ca581fe34"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/Cards.lua",
+    "sha256": "ebf4fa1fc9617cda0ba0b5e4e2d85a55c99e2e1442ca4db4ef05e2100bad3ad9"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/Chars.lua",
+    "sha256": "67e1295ad252ac697b1fe79c7fd269fb8652b15b0c4273e585e2917ff9d371de"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/Menu.lua",
+    "sha256": "3955bf7693d1e33f321b67031fdbfa030c35d71c652040afa4149c875cf85c93"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/Minimap.lua",
+    "sha256": "04696e86eabe8587dfb0436dd0a94e48ab760e68c7bac064e722ef6c549df7dc"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/Settings.lua",
+    "sha256": "b702c8d69d44ca10945971a079691b8dfab4064f543d37a9987218f0c140bdfd"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/SpecPanel.lua",
+    "sha256": "7e4f29c9f33c572d7c23d2c976d1bdff3dcac0463d0969b7a5ba98efe49d6d5a"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/Widgets.lua",
+    "sha256": "25c16fde33b6accdf3427cbbcdc115610aa388e377364ff0622eb14597e73913"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UI/Window.lua",
+    "sha256": "acf681ae277924c7e93416eca13b6956d97310eae35cd0489f69db73c5552341"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/UPSTREAM.md",
+    "sha256": "b42b882f5433eddfbb34b33d3ed0fbdbed8a6b343fe84023a71629abffdef038"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/build_apex_farms.py",
+    "sha256": "de3e1db1217ba1ca58d3381d6209ed8f9e2c23d7bf520310c2d54ceda4734bd1"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/att.py",
+    "sha256": "dde428c1735516644d5defd87f40695106b14ef6957c4c4257b8d970a034d3d9"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_camp.py",
+    "sha256": "16f90c6f07ac2046fac39e2acb743849c55015d6889829e51f6018e892317c6c"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_crafting.py",
+    "sha256": "1e51a901147d1e99539dfb9062db155e44e56fab49a30ea4199736d586460015"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_data.py",
+    "sha256": "aad78e7d76cf0e9aecb6af075ec53c05c51e6e89fae0419797d2e61c785bb948"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_disenchant.py",
+    "sha256": "ae7d17868a59063b51dd61c493e6ff81bcecc8de63c51662d1910cba63aa2d61"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_fishing.py",
+    "sha256": "e50000579cb7f98af4d8dbc00f78ed591fd412a6830ba55e758705e57b838879"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_herbalism.py",
+    "sha256": "33ebab58e85f1e94147a06a532b8d171cfa9fcece82b0b8b823bd88dc719aaf7"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_locale.py",
+    "sha256": "79a3b5273d76e097a9b3b9b70c98c3533071fdf973138c61b7f6df5685063f26"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_lockpicking.py",
+    "sha256": "e7c0520d8d3f73d013a2243c83e2642d3a93a8c65a6833909d08855ca991b565"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_mining.py",
+    "sha256": "47d07d5e800be5ddbf45f8fc291b4c8476a5f2ea991a1ac001fb7874a6d14ffd"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_names.py",
+    "sha256": "a49b955da4becadb022582837d3b9ae163ee6e230c8ff139f8d1412af5361ea1"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/build_skinning.py",
+    "sha256": "de55939a6338143081aeab5244ff650f3bbb3b73c096a089b4c27585b59f6354"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/make_media.py",
+    "sha256": "e41d71a08d41eecf0f695244b24c44ad48b7d58da0a7800f1d161896b3e221b7"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/questiedb.py",
+    "sha256": "5040aec4100e72884be22b765dd67c2422b9b0013833f02ae556bb317bf697c8"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/seen_in_game.json",
+    "sha256": "9920aac375d6d501804da704cd5a46702089555338462de2f3bcb18c5ed828c2"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/seen_in_game.py",
+    "sha256": "94ff7c049cbb7c9092e27d1ed30b441f13a9f3a3a80af54fe41d2cab8f3bc484"
+  },
+  {
+    "path": "ApexUI/Source/ApexProfessions/upstream/tools/wago.py",
+    "sha256": "beace909db0a769903db503b18af1d8e6bb2623cd592e404ce2f6032f23af85c"
+  },
+  {
+    "path": "ApexUI/Source/README.md",
+    "sha256": "feff582c9f6318104b2eb7cdfc55a549a8ff41704573f785adbee5b50d95a4db"
+  },
+  {
+    "path": "ApexUI/Source/build_suite.py",
+    "sha256": "d9857407583ecdd33a8a898cce57c31ca8f044acb527bcbfb9862750c65f79ca"
+  },
+  {
+    "path": "ApexUI/Suite.lua",
+    "sha256": "b554612ac977b2094771fedf4b7ef5bdd5933233a141f3ee802d285ca72f2a27"
+  },
+  {
+    "path": "ApexUI/Templates.lua",
+    "sha256": "a29f81107628db7fc323ed569c35a8c8358b4d901db6a6b0bfeff113235cc0bd"
+  },
+  {
+    "path": "ApexUI/Theme.lua",
+    "sha256": "d4683a6309020c63714f14b5649c79aee8e9feec23d3b9cac30631060aa7e339"
+  },
+  {
+    "path": "ApexUI/Toolbar.lua",
+    "sha256": "94d4273c9cf1f932d3b0d356e369dbd4253cdd6adbea5ac987eb5d3e378a7b60"
+  },
+  {
+    "path": "ApexUI/UnitFrames.lua",
+    "sha256": "f6730e976c9b68c9d141c68d540528aec925c46081e36c9e5f1ca0e5ff92bc82"
+  },
+  {
+    "path": "ApexUI/Utility.lua",
+    "sha256": "b37dc84cc86698fbdc9aebf7ec4f9643c3cc7d0eb0ff9da18dfa9857dc2ade36"
+  },
+  {
+    "path": "ApexUI/tools/test_combat.py",
+    "sha256": "1079c07f58933385c0f989cf3f606b069fa90ed8c31a4734a5ecf32d10e5e072"
+  },
+  {
+    "path": "ApexUI/tools/test_suite.py",
+    "sha256": "2eba4c77361e268b1469f706080802ba7e74e88fe6a3f59c7da0d95ccbecf98b"
+  }
+]

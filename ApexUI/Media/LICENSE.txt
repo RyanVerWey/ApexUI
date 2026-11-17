@@ -1,0 +1,1 @@
+Original procedural interface textures by ApexInterfectum, 2026. GPL-3.0. Source generator: tools/make_media.py.

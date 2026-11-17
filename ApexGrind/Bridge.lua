@@ -1,0 +1,3 @@
+local name=...
+ApexUIStorage=ApexUIStorage or {}
+ApexUIStorage[name]=true
